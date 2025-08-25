@@ -1,0 +1,19 @@
+{
+    "name": "TO DO APP",
+    "short_name": "to do",
+    "start_url": "index.html",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "png/ic_launcher.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "png/playstore.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+
+}
